@@ -1,6 +1,6 @@
 export const AdminSideBarLinks = [
   { id: 1, name: "DashBaord", link: "/AdminDashboard" },
-  { id: 2, name: "Add Manager", link: "/AddManger" },
+  { id: 2, name: "Add Manager1", link: "/AddManger" },
   { id: 3, name: "Remove Manager", link: "/UpdateAndDeleteManager" },
   { id: 4, name: "Add Employee", link: "/AddEmployee" },
   { id: 5, name: "Remove Employee", link: "/abhiniha" },
