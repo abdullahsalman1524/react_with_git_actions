@@ -2,6 +2,7 @@
   "name": "my-project",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://abdullahsalman1524.github.io/react_with_git_actions/",
   "type": "module",
   "scripts": {
     "dev": "vite",
