@@ -26,9 +26,11 @@ jobs:
 
       - name: Build Project
         run: npm run build
+        # Make sure the build process creates the build directory in the expected location
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@4.1.0
         with:
           branch: gh-pages
           folder: build
+          # Check if the path to the build directory is correct
